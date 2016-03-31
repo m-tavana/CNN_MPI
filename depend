@@ -1,0 +1,2 @@
+conv_layer4.o: conv_layer4.c utils.h
+utils.o: utils.c
